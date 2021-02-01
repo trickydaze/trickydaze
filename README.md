@@ -14,5 +14,5 @@
 </html>
 </p>  
 
- [![Dilara's GitHub stats]<p align="center">(https://github-readme-stats.vercel.app/api?username=trickydaze)]</p>(https://github.com/anuraghazra/github-readme-stats)
+ [![Dilara's GitHub stats]<p align="center">(https://github-readme-stats.vercel.app/api?username=trickydaze)](https://github.com/anuraghazra/github-readme-stats)</p>
 
