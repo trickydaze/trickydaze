@@ -2,9 +2,7 @@
  <p><span id="greeting">Hello!</span> Welcome to my Github profile!</p>
 <p align="center">
   <img width="460" height="300" src='https://media.giphy.com/media/0dQ0CkvCxw4RwR3G0S/giphy.gif'><html>
-   <head>
-      <title>HTML Image as link</title>
-   </head>
+
    <body>
       Please find my Linkedin profile below:<br>
       <a href="https://www.linkedin.com/in/yildiz-dilara-parry-/">
