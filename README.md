@@ -13,4 +13,4 @@
 </p>  
 
 
-[![HitCount](http://hits.dwyl.com/trickydaze/)](http://hits.dwyl.com/trickydaze)
+[![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickydaze)](https://github.com/anuraghazra/github-readme-stats)
