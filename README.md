@@ -7,10 +7,11 @@
   <p align="center"><a href="https://www.linkedin.com/in/yildiz-dilara-parry-/">
          <img alt="LinkedIn" src="https://www.interiorbusiness.nl/wp-content/uploads/2018/01/linkedin-logo-png-1825.png"
          width="70" height="70">
+ [![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickydaze)](https://github.com/anuraghazra/github-readme-stats)
   </a> </p>
   
 </html>
 </p>  
 
 
-<p align="center">[![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickydaze)](https://github.com/anuraghazra/github-readme-stats)</p>
+
