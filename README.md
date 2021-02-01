@@ -1,7 +1,7 @@
 ### Hi there 👋
  <p><span id="greeting">Hello!</span> Welcome to my Github profile!</p>
 
-  <img width="460" height="300" src='https://media.giphy.com/media/0dQ0CkvCxw4RwR3G0S/giphy.gif'><html>
+  <img width="5000" height="300" src='https://media.giphy.com/media/0dQ0CkvCxw4RwR3G0S/giphy.gif'><html>
  
 
   <h2> Please find more about me on my LinkedIn. </h2>
