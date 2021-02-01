@@ -13,4 +13,4 @@
 </p>  
 
 
-[![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickydaze)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickydaze)](https://github.com/anuraghazra/github-readme-stats)</p>
