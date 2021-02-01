@@ -11,3 +11,6 @@
   
 </html>
 </p>  
+
+
+[![HitCount](http://hits.dwyl.com/trickydaze/)](http://hits.dwyl.com/trickydaze)
