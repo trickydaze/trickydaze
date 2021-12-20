@@ -5,12 +5,7 @@
  
 
   <h2> Please find more about me on my LinkedIn. </h2>
-  <a href="https://www.linkedin.com/in/yildiz-dilara-parry-/">
-         <img alt="LinkedIn" src="https://www.interiorbusiness.nl/wp-content/uploads/2018/01/linkedin-logo-png-1825.png"
-         width="70" height="70">
 
-  </a> 
-  
 </html>
 
 
